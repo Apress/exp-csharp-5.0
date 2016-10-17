@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AECCD015-05F0-47E3-973F-156EB64C956A}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ch12</RootNamespace>
+    <AssemblyName>Ch12</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Listing 12-66.cs" />
+    <Compile Include="Listing 12-60.cs" />
+    <Compile Include="Listing 12-54.cs" />
+    <Compile Include="Listing 12-47.cs" />
+    <Compile Include="Listing 12-25.cs" />
+    <Compile Include="Listing 12-10.cs" />
+    <Compile Include="Listing 12-9.cs" />
+    <Compile Include="Listing 12-23.cs" />
+    <Compile Include="Listing 12-39.cs" />
+    <Compile Include="Listing 12-43.cs" />
+    <Compile Include="Listing 12-44.cs" />
+    <Compile Include="Listing 12-37.cs" />
+    <Compile Include="Listing 12-76.cs" />
+    <Compile Include="Listing 12-11.cs" />
+    <Compile Include="Listing 12-35.cs" />
+    <Compile Include="Listing 12-67.cs" />
+    <Compile Include="Listing 12-63.cs" />
+    <Compile Include="Listing 12-69.cs" />
+    <Compile Include="Listing 12-49.cs" />
+    <Compile Include="Listing 12-51.cs" />
+    <Compile Include="Listing 12-21.cs" />
+    <Compile Include="Listing 12-29.cs" />
+    <Compile Include="Listing 12-18.cs" />
+    <Compile Include="Listing 12-57.cs" />
+    <Compile Include="Listing 12-32.cs" />
+    <Compile Include="Listing 12-84.cs" />
+    <Compile Include="Listing 12-33.cs" />
+    <Compile Include="Listing 12-34.cs" />
+    <Compile Include="Listing 12-78.cs" />
+    <Compile Include="Listing 12-72.cs" />
+    <Compile Include="Listing 12-75.cs" />
+    <Compile Include="Listing 12-16.cs" />
+    <Compile Include="Listing 12-41.cs" />
+    <Compile Include="Listing 12-58.cs" />
+    <Compile Include="Listing 12-61.cs" />
+    <Compile Include="Listing 12-5.cs" />
+    <Compile Include="Listing 12-7.cs" />
+    <Compile Include="Listing 12-31.cs" />
+    <Compile Include="Listing 12-12.cs" />
+    <Compile Include="Listing 12-77.cs" />
+    <Compile Include="Listing 12-79.cs" />
+    <Compile Include="Listing 12-82.cs" />
+    <Compile Include="Listing 12-27.cs" />
+    <Compile Include="Listing 12-1.cs" />
+    <Compile Include="Listing 12-85.cs" />
+    <Compile Include="Listing 12-22.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

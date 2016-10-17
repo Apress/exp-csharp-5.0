@@ -1,0 +1,5 @@
+J:\Book\ExpertC#2012\SourceCode\BookExamples\Ch14\bin\Release\Ch14.exe
+J:\Book\ExpertC#2012\SourceCode\BookExamples\Ch14\bin\Release\Ch14.pdb
+J:\Book\ExpertC#2012\SourceCode\BookExamples\Ch14\obj\x86\Release\ResolveAssemblyReference.cache
+J:\Book\ExpertC#2012\SourceCode\BookExamples\Ch14\obj\x86\Release\Ch14.exe
+J:\Book\ExpertC#2012\SourceCode\BookExamples\Ch14\obj\x86\Release\Ch14.pdb

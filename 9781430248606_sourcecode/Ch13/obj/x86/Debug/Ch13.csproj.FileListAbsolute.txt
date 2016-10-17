@@ -1,0 +1,5 @@
+J:\Book\ExpertC#2012\SourceCode\BookExamples\Ch13\bin\Debug\Ch13.exe.config
+J:\Book\ExpertC#2012\SourceCode\BookExamples\Ch13\bin\Debug\Ch13.exe
+J:\Book\ExpertC#2012\SourceCode\BookExamples\Ch13\bin\Debug\Ch13.pdb
+J:\Book\ExpertC#2012\SourceCode\BookExamples\Ch13\obj\x86\Debug\Ch13.exe
+J:\Book\ExpertC#2012\SourceCode\BookExamples\Ch13\obj\x86\Debug\Ch13.pdb

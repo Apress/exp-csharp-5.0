@@ -1,0 +1,9 @@
+J:\Book\ExpertC#2012\SourceCode\BookExamples\CH08_GUI\bin\Debug\CH08_GUI.exe.config
+J:\Book\ExpertC#2012\SourceCode\BookExamples\CH08_GUI\bin\Debug\CH08_GUI.exe
+J:\Book\ExpertC#2012\SourceCode\BookExamples\CH08_GUI\bin\Debug\CH08_GUI.pdb
+J:\Book\ExpertC#2012\SourceCode\BookExamples\CH08_GUI\obj\Debug\CH08_GUI.csprojResolveAssemblyReference.cache
+J:\Book\ExpertC#2012\SourceCode\BookExamples\CH08_GUI\obj\Debug\CH08_GUI.frmMain.resources
+J:\Book\ExpertC#2012\SourceCode\BookExamples\CH08_GUI\obj\Debug\CH08_GUI.Properties.Resources.resources
+J:\Book\ExpertC#2012\SourceCode\BookExamples\CH08_GUI\obj\Debug\CH08_GUI.csproj.GenerateResource.Cache
+J:\Book\ExpertC#2012\SourceCode\BookExamples\CH08_GUI\obj\Debug\CH08_GUI.exe
+J:\Book\ExpertC#2012\SourceCode\BookExamples\CH08_GUI\obj\Debug\CH08_GUI.pdb
